@@ -1,1 +1,1 @@
-Cross-Published EDA of a Kaggle Pokemon Stats Dataset Workup
+Cross-Published EDA of a Kaggle Pokemon Stats Dataset
